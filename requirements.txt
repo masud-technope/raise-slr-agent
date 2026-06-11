@@ -1,0 +1,9 @@
+langchain
+langchain-openai
+python-dotenv
+feedparser
+pydantic
+markdown2
+nest_asyncio
+reportlab
+openai
