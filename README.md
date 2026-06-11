@@ -49,7 +49,7 @@ OPENAI_API_KEY=your_key
 ## Usage
 
 ```bash
-python ArXivSLRAgent.py \
+python main.py \
   --query "Agentic AI debugging" \
   --max-papers 20
 ```
@@ -65,15 +65,17 @@ python ArXivSLRAgent.py \
 ## Project Structure
 
 ```text
-src/
+raise-slr-agent/
 ├── agents/
-├── tools/
-├── workflows/
-├── prompts/
-
-data/
-tests/
-examples/
+├── pipeline/
+├── README.md
+├── main.py
+├── util/
+├──LICENSE
+├── requirements.txt
+├──SLROutput/
+├──tests/
+├──examples/
 ```
 
 ## Limitations
