@@ -1,4 +1,4 @@
-# Literature Review Agent
+# RAISE SLR Agent
 
 An AI-powered agent that automates literature reviews by searching, analyzing, and synthesizing research papers.
 
